@@ -1,7 +1,6 @@
 # Blender Animation Project
-
 This repository contains a Blender animation project created in Blender 4.2
-
+All of these animations were made by me for my friend making a game in roblox.
 ## Contents
 - `.blend` source files
 - Textures and assets
